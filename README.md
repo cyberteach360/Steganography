@@ -91,6 +91,8 @@ Personally this is one of my favorite image stego tools. It supports just about 
               
 ### ⏲️ Stegsolver :
 stegsolver is another important tools for Steganography CTF Challenges  . It change color combination and expose data from image .
+
+#### 👁️‍🗨️ Download Link : https://github.com/zardus/ctf-tools/blob/master/stegsolve/install
              
 #### Command :
               java -jar  stegsolver
@@ -110,6 +112,8 @@ Binwalk use for different purpose  .In steganography we will use Binwalk for ext
 ### 🔥 Diit-1.5.jar :
 diit-1.5.jar is so important tools for CTF contest . When all process fail to solve steganograhy challenge it come .
 It use algorithm for extract data from image file
+
+##### 💩 Download Link :http://diit.sourceforge.net/
      
 #### Command :
               java -jar diit-1.5.jar
@@ -117,6 +121,8 @@ It use algorithm for extract data from image file
 ### 🧑‍🚀 Magic eye solver:
      magic eye solver is onle tools which is similar tools like stegsolver .It is mainly use for magic image .
                  
+#### 👓 Website Link :https://magiceye.ecksdee.co.uk/
+
 
 #### How to solve Challenge of Steganography ?
 
