@@ -90,7 +90,7 @@ Personally this is one of my favorite image stego tools. It supports just about 
 
               
 ### ⏲️ Stegsolver :
-stegsolver is another important tools for ctf . It change color combination and expose data from image .
+stegsolver is another important tools for Steganography CTF Challenges  . It change color combination and expose data from image .
              
 #### Command :
               java -jar  stegsolver
