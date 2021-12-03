@@ -173,7 +173,7 @@ Stegseeker is more than  powerful than  Stegcracker .I personally recommend to y
                         https://github.com/RickdeJager/stegseek/
 
 ### Command :
-              stegseeker targetfile wordlist_for_brute_force_attack
+              stegseek targetfile wordlist_for_brute_force_attack
               
 
 😍 Happy Hacking 👀
