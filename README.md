@@ -166,10 +166,10 @@ Stegcracker use for crack password of image.jpg format file . That means  when  
 ### Commnad :
              stegcracker targetfile wordlist_for_brute_force_attack
 
-#### Stegseeker :
-Stegseeker is more than  powerful than  Stegcracker .I personally recommend to you , use stegseeker instead of stegcrakcer for .jpg format file password cracking.
+#### Stegseek :
+Stegseek is more than  powerful than  Stegcracker .I personally recommend to you , use stegseeker instead of stegcrakcer for .jpg format file password cracking.
 
-### Stegseeker Download and install :
+### Stegseek Download and install :
                         https://github.com/RickdeJager/stegseek/
 
 ### Command :
